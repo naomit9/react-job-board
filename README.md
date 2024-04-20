@@ -18,7 +18,7 @@
 
 [x] 404 page
 
-[] fetch data
+[] fetch data from a JSON server
 
 [] loading spinner?
 
